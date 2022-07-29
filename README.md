@@ -1,2 +1,2 @@
 # arquitetura-css
-Projeto Fruta &amp; Fruto, desenvolvido para treinar as habilidades de CSS e componentes, seguido conforme tarefa do curso Alura.
+Fruta & Fruto project, designed to train CSS skills and components, followed as an assignment from the Alura course.
